@@ -1,3 +1,7 @@
+FBA Label Printing Relic:
+
+Simplify the FBA Label Printing Process.
+
 Features
 
 Auto-classification — scans PDF text and sorts files into four types
